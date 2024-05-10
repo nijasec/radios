@@ -1,310 +1,310 @@
 [
- {
-  "ID": 63,
-  "STATION_NAME": "Al Jazeera",
-  "URL": "https:\/\/live-hls-web-aje.getaj.net\/AJE\/06.m3u8",
-  "CODEC": "AAC",
-  "ENABLED": 1
- },
- {
-  "ID": 243,
-  "STATION_NAME": "Arab Mix FM",
-  "URL": "https:\/\/stream-161.zeno.fm\/efx5psd00qruv?zs=jTf1P5VJQ2yu9GBzuT9DGg",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 163,
-  "STATION_NAME": "BIG FM 104.9",
-  "URL": "https:\/\/funasia.streamguys1.com\/live11",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 3,
-  "STATION_NAME": "City 101.6",
-  "URL": "https:\/\/n11.radiojar.com\/gmwyu8xdrxquv?rj-ttl=5&rj-tok=AAABjHgJOvwAmy5aw0yqXbt2lQ",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 82,
-  "STATION_NAME": "CLUB FM",
-  "URL": "https:\/\/eu10.fastcast4u.com\/clubfmuae",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 222,
-  "STATION_NAME": "Club FM Kochi",
-  "URL": "https:\/\/sp14.instainternet.com\/8050\/stream",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 62,
-  "STATION_NAME": "Digital Malayali",
-  "URL": "https:\/\/radio.digitalmalayali.in\/listen\/stream\/radio.mp3",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 2,
-  "STATION_NAME": "Gold FM",
-  "URL": "https:\/\/stream.radio.co\/s00240810b\/listen",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 104,
-  "STATION_NAME": "Goldy Evergreen",
-  "URL": "https:\/\/stream-142.zeno.fm\/n2fd0edh9k8uv?zs=_KXXDjbVR3C9a0rneKtFjw",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 141,
-  "STATION_NAME": "Hit FM 96.7 Dubai",
-  "URL": "https:\/\/n07.radiojar.com\/3yygc0pwuueuv",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 81,
-  "STATION_NAME": "Ilayaraja Radio",
-  "URL": "https:\/\/sp14.instainternet.com\/8090\/stream",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 204,
-  "STATION_NAME": "Instrumental Music",
-  "URL": "https:\/\/azuracast.vibesounds.in:8030\/radio.mp3",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 6,
-  "STATION_NAME": "JNFM Tamil",
-  "URL": "https:\/\/stream-149.zeno.fm\/dhcb09rarchvv?zs=Ctpo7oz3QP69BhNjNiE5Ow",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 22,
-  "STATION_NAME": "Kadak FM 97.3 UAE",
-  "URL": "https:\/\/vo-live.cdb.cdn.orange.com\/Content\/Channel\/kadak_fm\/DASH\/master.mpd",
-  "CODEC": "AAC",
-  "ENABLED": 1
- },
- {
-  "ID": 181,
-  "STATION_NAME": "Kishore Kumar Radio",
-  "URL": "https:\/\/stream.zeno.fm\/0ghtfp8ztm0uv",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 8,
-  "STATION_NAME": "Kochi FM",
-  "URL": "https:\/\/air.pc.cdn.bitgravity.com\/air\/live\/pbaudio044\/playlist.m3u8",
-  "CODEC": "AAC",
-  "ENABLED": 1
- },
- {
-  "ID": 103,
-  "STATION_NAME": "Love 90s",
-  "URL": "https:\/\/90.streeemer.com:8000\/radio.aac",
-  "CODEC": "MP3",
-  "ENABLED": 0
- },
- {
-  "ID": 206,
-  "STATION_NAME": "Malayalam Radio",
-  "URL": "https:\/\/stream-152.zeno.fm\/0ke1k98tvk8uv?zs=fMBgzuGuQeaoAOIWHS5H6A",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 242,
-  "STATION_NAME": "Mega FM 92.7",
-  "URL": "https:\/\/theonestopradio.com\/stream?url=http:\/\/nebula.shoutca.st:8211\/mp3",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 1,
-  "STATION_NAME": "Mirchi Love",
-  "URL": "https:\/\/drive.uber.radio\/uber\/bollywoodlove\/icecast.audio",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 7,
-  "STATION_NAME": "Mirchi Top 20",
-  "URL": "https:\/\/drive.uber.radio\/uber\/bollywoodnow\/icecast.audio",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 245,
-  "STATION_NAME": "Mishary Alafasi",
-  "URL": "https:\/\/qurango.net\/radio\/mishary_alafasi",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 241,
-  "STATION_NAME": "Nile FM 104.2",
-  "URL": "https:\/\/niletv.nrpstream.com\/hls\/0\/stream.m3u8",
-  "CODEC": "AAC",
-  "ENABLED": 1
- },
- {
-  "ID": 246,
-  "STATION_NAME": "Nogoum FM",
-  "URL": "https:\/\/audio.nrpstream.com\/listen\/nogoumfm\/radio.mp3",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 102,
-  "STATION_NAME": "Non stop Hindi",
-  "URL": "https:\/\/theonestopradio.com\/stream?url=http:\/\/s5.voscast.com:8216\/stream",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 4,
-  "STATION_NAME": "Nursery",
-  "URL": "https:\/\/26453.live.streamtheworld.com\/SAM04AAC281_SC",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 101,
-  "STATION_NAME": "Old Hindi Retro",
-  "URL": "https:\/\/stream-146.zeno.fm\/v2zfmxef798uv?zs=H3EV0TevSiW_1XrliwIZNw",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 41,
-  "STATION_NAME": "Peace Radio Malayalam",
-  "URL": "https:\/\/peaceradio.out.airtime.pro\/peaceradio_a",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 201,
-  "STATION_NAME": "Radio Asia 94.7",
-  "URL": "https:\/\/eu8.fastcast4u.com\/proxy\/qqyspjqd?mp=\/;",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 202,
-  "STATION_NAME": "Radio Beats",
-  "URL": "https:\/\/stream-150.zeno.fm\/q4n8128fr7zuv?zs=",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 5,
-  "STATION_NAME": "Radio Gilli",
-  "URL": "https:\/\/stream2.rcast.net\/66462",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 84,
-  "STATION_NAME": "Radio Kerala",
-  "URL": "https:\/\/eu4.fastcast4u.com\/proxy\/radiokerala?mp=\/1",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 223,
-  "STATION_NAME": "Radio Malayalam",
-  "URL": "https:\/\/stream-157.zeno.fm\/512rbf1e3qzuv?zs=JYobSMkATL6nMzA3E-4XJQ",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 281,
-  "STATION_NAME": "Radio Mango",
-  "URL": "https:\/\/bcovlive-a.akamaihd.net\/19b535b7499a4719a5c19e043063f5d9\/ap-southeast-1\/6034685947001\/playlist.m3u8?nocache=322970",
-  "CODEC": "AAC",
-  "ENABLED": 1
- },
- {
-  "ID": 121,
-  "STATION_NAME": "Radio Matoli Wayanad",
-  "URL": "https:\/\/cast1.my-control-panel.com\/proxy\/radiomattoli\/stream",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 161,
-  "STATION_NAME": "Radio Mirchi Dubai 102.4",
-  "URL": "https:\/\/playerservices.streamtheworld.com\/api\/livestream-redirect\/DUB_HIN_GSTAAC.m3u8",
-  "CODEC": "AAC",
-  "ENABLED": 1
- },
- {
-  "ID": 164,
-  "STATION_NAME": "Radio Olive",
-  "URL": "https:\/\/21303.live.streamtheworld.com\/OLIVE1063.mp3",
-  "CODEC": "MP3",
-  "ENABLED": 0
- },
- {
-  "ID": 162,
-  "STATION_NAME": "Radio Suno 102.4",
-  "URL": "https:\/\/vobook.ru\/http:\/\/51.255.235.165:5476\/;stream.mp3",
-  "CODEC": "MP3",
-  "ENABLED": 0
- },
- {
-  "ID": 203,
-  "STATION_NAME": "Radio Suno Melody",
-  "URL": "https:\/\/stream-158.zeno.fm\/pbqv4u9k0k0uv?zs=bSkh51YLTf-bQWl41hsMzA",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 221,
-  "STATION_NAME": "Radio Talky",
-  "URL": "https:\/\/media.streambrothers.com:8172\/stream",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 61,
-  "STATION_NAME": "Salat Islam",
-  "URL": "https:\/\/stream-161.zeno.fm\/t5gkwva794zuv?zs=dUugOlasSIG1qx-mrhRLnw&rj-ttl=5&rj-tok=AAABejfVvLAAqGMzpLKaA3LSkw",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 244,
-  "STATION_NAME": "Sky News Arabia",
-  "URL": "https:\/\/radio.skynewsarabia.com\/stream\/radio\/skynewsarabia",
-  "CODEC": "MP3",
-  "ENABLED": 1
- },
- {
-  "ID": 9,
-  "STATION_NAME": "Thrissur FM",
-  "URL": "https:\/\/air.pc.cdn.bitgravity.com\/air\/live\/pbaudio036\/playlist.m3u8",
-  "CODEC": "AAC",
-  "ENABLED": 1
- },
- {
-  "ID": 205,
-  "STATION_NAME": "Vasnatham FM",
-  "URL": "https:\/\/cp12.serverse.com\/proxy\/vasanthamfm?mp=\/stream",
-  "CODEC": "MP3",
-  "ENABLED": 1
- }
+  {
+    "ID": 63,
+    "STATION_NAME": "Al Jazeera",
+    "URL": "https://live-hls-web-aje.getaj.net/AJE/06.m3u8",
+    "CODEC": "AAC",
+    "ENABLED": 1
+  },
+  {
+    "ID": 243,
+    "STATION_NAME": "Arab Mix FM",
+    "URL": "https://stream-161.zeno.fm/efx5psd00qruv?zs=jTf1P5VJQ2yu9GBzuT9DGg",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 163,
+    "STATION_NAME": "BIG FM 104.9",
+    "URL": "https://funasia.streamguys1.com/live11",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 3,
+    "STATION_NAME": "City 101.6",
+    "URL": "https://n11.radiojar.com/gmwyu8xdrxquv?rj-ttl=5&rj-tok=AAABjHgJOvwAmy5aw0yqXbt2lQ",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 82,
+    "STATION_NAME": "CLUB FM",
+    "URL": "https://eu10.fastcast4u.com/clubfmuae",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 222,
+    "STATION_NAME": "Club FM Kochi",
+    "URL": "https://sp14.instainternet.com/8050/stream",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 62,
+    "STATION_NAME": "Digital Malayali",
+    "URL": "https://radio.digitalmalayali.in/listen/stream/radio.mp3",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 2,
+    "STATION_NAME": "Gold FM",
+    "URL": "https://stream.radio.co/s00240810b/listen",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 104,
+    "STATION_NAME": "Goldy Evergreen",
+    "URL": "https://stream-142.zeno.fm/n2fd0edh9k8uv?zs=_KXXDjbVR3C9a0rneKtFjw",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 141,
+    "STATION_NAME": "Hit FM 96.7 Dubai",
+    "URL": "https://n07.radiojar.com/3yygc0pwuueuv",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 81,
+    "STATION_NAME": "Ilayaraja Radio",
+    "URL": "https://sp14.instainternet.com/8090/stream",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 204,
+    "STATION_NAME": "Instrumental Music",
+    "URL": "https://azuracast.vibesounds.in:8030/radio.mp3",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 6,
+    "STATION_NAME": "JNFM Tamil",
+    "URL": "https://stream-149.zeno.fm/dhcb09rarchvv?zs=Ctpo7oz3QP69BhNjNiE5Ow",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 22,
+    "STATION_NAME": "Kadak FM 97.3 UAE",
+    "URL": "https://vo-live.cdb.cdn.orange.com/Content/Channel/kadak_fm/DASH/master.mpd",
+    "CODEC": "AAC",
+    "ENABLED": 1
+  },
+  {
+    "ID": 181,
+    "STATION_NAME": "Kishore Kumar Radio",
+    "URL": "https://stream.zeno.fm/0ghtfp8ztm0uv",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 8,
+    "STATION_NAME": "Kochi FM",
+    "URL": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
+    "CODEC": "AAC",
+    "ENABLED": 1
+  },
+  {
+    "ID": 103,
+    "STATION_NAME": "Love 90s",
+    "URL": "https://90.streeemer.com:8000/radio.aac",
+    "CODEC": "MP3",
+    "ENABLED": 0
+  },
+  {
+    "ID": 206,
+    "STATION_NAME": "Malayalam Radio",
+    "URL": "https://stream-152.zeno.fm/0ke1k98tvk8uv?zs=fMBgzuGuQeaoAOIWHS5H6A",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 242,
+    "STATION_NAME": "Mega FM 92.7",
+    "URL": "https://theonestopradio.com/stream?url=http://nebula.shoutca.st:8211/mp3",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 1,
+    "STATION_NAME": "Mirchi Love",
+    "URL": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 7,
+    "STATION_NAME": "Mirchi Top 20",
+    "URL": "https://drive.uber.radio/uber/bollywoodnow/icecast.audio",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 245,
+    "STATION_NAME": "Mishary Alafasi",
+    "URL": "https://qurango.net/radio/mishary_alafasi",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 241,
+    "STATION_NAME": "Nile FM 104.2",
+    "URL": "https://niletv.nrpstream.com/hls/0/stream.m3u8",
+    "CODEC": "AAC",
+    "ENABLED": 1
+  },
+  {
+    "ID": 246,
+    "STATION_NAME": "Nogoum FM",
+    "URL": "https://audio.nrpstream.com/listen/nogoumfm/radio.mp3",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 102,
+    "STATION_NAME": "Non stop Hindi",
+    "URL": "https://theonestopradio.com/stream?url=http://s5.voscast.com:8216/stream",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 4,
+    "STATION_NAME": "Nursery",
+    "URL": "https://26453.live.streamtheworld.com/SAM04AAC281_SC",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 101,
+    "STATION_NAME": "Old Hindi Retro",
+    "URL": "https://stream-146.zeno.fm/v2zfmxef798uv?zs=H3EV0TevSiW_1XrliwIZNw",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 41,
+    "STATION_NAME": "Peace Radio Malayalam",
+    "URL": "https://peaceradio.out.airtime.pro/peaceradio_a",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 201,
+    "STATION_NAME": "Radio Asia 94.7",
+    "URL": "https://eu8.fastcast4u.com/proxy/qqyspjqd?mp=/;",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 202,
+    "STATION_NAME": "Radio Beats",
+    "URL": "https://stream-150.zeno.fm/q4n8128fr7zuv?zs=",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 5,
+    "STATION_NAME": "Radio Gilli",
+    "URL": "https://stream2.rcast.net/66462",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 84,
+    "STATION_NAME": "Radio Kerala",
+    "URL": "https://eu4.fastcast4u.com/proxy/radiokerala?mp=/1",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 223,
+    "STATION_NAME": "Radio Malayalam",
+    "URL": "https://stream-157.zeno.fm/512rbf1e3qzuv?zs=JYobSMkATL6nMzA3E-4XJQ",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 281,
+    "STATION_NAME": "Radio Mango",
+    "URL": "https://bcovlive-a.akamaihd.net/19b535b7499a4719a5c19e043063f5d9/ap-southeast-1/6034685947001/playlist.m3u8?nocache=322970",
+    "CODEC": "AAC",
+    "ENABLED": 1
+  },
+  {
+    "ID": 121,
+    "STATION_NAME": "Radio Matoli Wayanad",
+    "URL": "https://cast1.my-control-panel.com/proxy/radiomattoli/stream",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 161,
+    "STATION_NAME": "Radio Mirchi Dubai 102.4",
+    "URL": "https://playerservices.streamtheworld.com/api/livestream-redirect/DUB_HIN_GSTAAC.m3u8",
+    "CODEC": "AAC",
+    "ENABLED": 1
+  },
+  {
+    "ID": 164,
+    "STATION_NAME": "Radio Olive",
+    "URL": "https://21303.live.streamtheworld.com/OLIVE1063.mp3",
+    "CODEC": "MP3",
+    "ENABLED": 0
+  },
+  {
+    "ID": 162,
+    "STATION_NAME": "Radio Suno 102.4",
+    "URL": "https://vobook.ru/http://51.255.235.165:5476/;stream.mp3",
+    "CODEC": "MP3",
+    "ENABLED": 0
+  },
+  {
+    "ID": 203,
+    "STATION_NAME": "Radio Suno Melody",
+    "URL": "https://stream-158.zeno.fm/pbqv4u9k0k0uv?zs=bSkh51YLTf-bQWl41hsMzA",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 221,
+    "STATION_NAME": "Radio Talky",
+    "URL": "https://media.streambrothers.com:8172/stream",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 61,
+    "STATION_NAME": "Salat Islam",
+    "URL": "https://stream-161.zeno.fm/t5gkwva794zuv?zs=dUugOlasSIG1qx-mrhRLnw&rj-ttl=5&rj-tok=AAABejfVvLAAqGMzpLKaA3LSkw",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 244,
+    "STATION_NAME": "Sky News Arabia",
+    "URL": "https://radio.skynewsarabia.com/stream/radio/skynewsarabia",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
+  {
+    "ID": 9,
+    "STATION_NAME": "Thrissur FM",
+    "URL": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8",
+    "CODEC": "AAC",
+    "ENABLED": 1
+  },
+  {
+    "ID": 205,
+    "STATION_NAME": "Vasnatham FM",
+    "URL": "https://cp12.serverse.com/proxy/vasanthamfm?mp=/stream",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  }
 ]
