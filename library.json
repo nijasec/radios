@@ -48,13 +48,7 @@
     "CODEC": "MP3",
     "ENABLED": 1
   },
-  {
-    "ID": 2,
-    "STATION_NAME": "Gold FM",
-    "URL": "https://stream.radio.co/s00240810b/listen",
-    "CODEC": "MP3",
-    "ENABLED": 1
-  },
+  
   {
     "ID": 104,
     "STATION_NAME": "Goldy Evergreen",
@@ -90,13 +84,7 @@
     "CODEC": "MP3",
     "ENABLED": 1
   },
-  {
-    "ID": 22,
-    "STATION_NAME": "Kadak FM 97.3 UAE",
-    "URL": "https://vo-live.cdb.cdn.orange.com/Content/Channel/kadak_fm/DASH/master.mpd",
-    "CODEC": "AAC",
-    "ENABLED": 1
-  },
+ 
   {
     "ID": 181,
     "STATION_NAME": "Kishore Kumar Radio",
@@ -251,20 +239,8 @@
     "CODEC": "AAC",
     "ENABLED": 1
   },
-  {
-    "ID": 164,
-    "STATION_NAME": "Radio Olive",
-    "URL": "https://21303.live.streamtheworld.com/OLIVE1063.mp3",
-    "CODEC": "MP3",
-    "ENABLED": 0
-  },
-  {
-    "ID": 162,
-    "STATION_NAME": "Radio Suno 102.4",
-    "URL": "https://vobook.ru/http://51.255.235.165:5476/;stream.mp3",
-    "CODEC": "MP3",
-    "ENABLED": 0
-  },
+ 
+ 
   {
     "ID": 203,
     "STATION_NAME": "Radio Suno Melody",
