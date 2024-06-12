@@ -48,7 +48,13 @@
     "CODEC": "MP3",
     "ENABLED": 1
   },
-  
+  {
+    "ID": 152,
+    "STATION_NAME": "Gold FM",
+    "URL": "https://stream.radio.co/s00240810b/listen",
+    "CODEC": "MP3",
+    "ENABLED": 1
+  },
   {
     "ID": 104,
     "STATION_NAME": "Goldy Evergreen",
